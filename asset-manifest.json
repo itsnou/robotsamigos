@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robotsamigos/static/css/main.51dda8d6.chunk.css",
+    "main.js": "/robotsamigos/static/js/main.27440bcc.chunk.js",
+    "main.js.map": "/robotsamigos/static/js/main.27440bcc.chunk.js.map",
+    "runtime-main.js": "/robotsamigos/static/js/runtime-main.7095a39a.js",
+    "runtime-main.js.map": "/robotsamigos/static/js/runtime-main.7095a39a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robotsamigos/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.daa72ce5.chunk.js": "/robotsamigos/static/js/2.daa72ce5.chunk.js",
+    "static/js/2.daa72ce5.chunk.js.map": "/robotsamigos/static/js/2.daa72ce5.chunk.js.map",
+    "index.html": "/robotsamigos/index.html",
+    "precache-manifest.07271596bedd771b34d29278a81b84f8.js": "/robotsamigos/precache-manifest.07271596bedd771b34d29278a81b84f8.js",
+    "service-worker.js": "/robotsamigos/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robotsamigos/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.51dda8d6.chunk.css.map": "/robotsamigos/static/css/main.51dda8d6.chunk.css.map",
+    "static/js/2.daa72ce5.chunk.js.LICENSE.txt": "/robotsamigos/static/js/2.daa72ce5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotsamigos/static/media/Nerik-normal.d995a437.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7095a39a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.daa72ce5.chunk.js",
+    "static/css/main.51dda8d6.chunk.css",
+    "static/js/main.27440bcc.chunk.js"
+  ]
+}
